@@ -51,7 +51,7 @@ under 13. In the case we discover that a child under 13 has provided
 us with personal information, we immediately delete this from our
 servers. If you are a parent or guardian and you are aware that your
 child has provided us with personal information, please contact us at
-zyadprofessional@gmail.com so that our executives will be able to do
+admin@joinplatter.com so that our executives will be able to do
 necessary actions.
 
 ### Changes to This Privacy Policy
