@@ -1,6 +1,7 @@
-# Last Updated 25 January 2024
+# Privacy Policy
+## Last Updated 25 January 2024
 
-## This mobile app is created and hosted by Platter, an independant company that develops and maintains mobile apps for restaurants.
+## This mobile app is created and hosted by Platter, a company started by Zyad Elgohary, an independant developer & company that develops and maintains mobile apps for restaurants.
 
 ### Information Collection and Use
 
