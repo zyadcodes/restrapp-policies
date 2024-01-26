@@ -1,6 +1,6 @@
-# Last Updated 25 February 2023
+# Last Updated 25 January 2024
 
-## This mobile app is created and hosted by Restrapp, an independant company that develops and maintains mobile apps for restaurants.
+## This mobile app is created and hosted by Platter, an independant company that develops and maintains mobile apps for restaurants.
 
 ### Information Collection and Use
 
@@ -65,7 +65,7 @@ this page.
 ### Contact Us
 
 If you have any questions or suggestions about my Privacy Policy, do
-not hesitate to contact us at zyadprofessional@gmail.com.
+not hesitate to contact us at admin@joinplatter.com.
 
 Your use of this mobile app and any dispute arising out of such use of
 the mobile app is subject to the laws of the United States of America.
